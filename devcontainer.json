@@ -15,6 +15,9 @@
       "settings": {
         // See here for VSCode settings and their defaults
         // https://code.visualstudio.com/docs/getstarted/settings#_default-settings
+        "files.associations": {
+          "*.md": "smd"
+        },
         "[smd]": {
           "editor.wordWrap": "on"
         },
@@ -24,7 +27,7 @@
       }
     },
     "codespaces": {
-      "openFiles": ["welcome.smd"]
+      "openFiles": ["README.md"]
     }
   }
 }
