@@ -4,7 +4,7 @@
 
 Welcome to the demo GitHub Codespace for the Stencila VSCode extension. You can launch the demo, in a data center near you, by clicking this button:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/stencila/demo-codespace)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/stencila/demo-codespace?quickstart=1)
 
 ## Interactive walkthroughs
 
