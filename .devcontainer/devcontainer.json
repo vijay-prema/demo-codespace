@@ -5,7 +5,7 @@
   "build": { "dockerfile": "Dockerfile" },
   "secrets": {
     "STENCILA_API_TOKEN": {
-      "description": "Add your Stencila Cloud API token",
+      "description": "If you have a Stencila Cloud API token, enter it here to enable Cloud features, or add one later via the Stencila menu within the Codespace",
       "documentationUrl": "https://stencila.cloud/access-tokens"
     }
   },
