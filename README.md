@@ -8,11 +8,11 @@ Welcome to the demo GitHub Codespace for the Stencila VSCode extension. You can 
 
 ## Interactive walkthroughs
 
-When the Codespace is open we recommend trying one of our interactive walkthroughs. Press <kbd>F2</kbd> to bring up the Stencila command palette and select from one of the walkthroughs.
+When the Codespace is open we recommend trying one of our interactive walkthroughs. Press <kbd>Ctrl</kbd>+<kbd>F1</kbd> to bring up the Stencila command palette and select from one of the walkthroughs.
 
 ## Installed languages and packages
 
-This Codespace include Python and R with popular data science packages installed:
+This Codespace includes Python and R with popular data science packages installed:
 
 - Python: `numpy`, `matplotlib`, `pandas`, `requests`
 

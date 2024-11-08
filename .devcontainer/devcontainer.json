@@ -10,6 +10,9 @@
     }
   },
   "customizations": {
+    "codespaces": {
+      "openFiles": ["welcome.smd"]
+    },
     "vscode": {
       "extensions": ["stencila.stencila"],
       "settings": {
