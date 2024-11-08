@@ -5,7 +5,7 @@
 1. The **Stencila Command Menu** can be accessed any time using Ctrl + F1 or the Stencila button on the bottom right of the status bar.
 2. Optionally **Sign in to Stencila Cloud** or enter an API Key via the menu, to use cloud models.
 3. Open the **Stencila Activity Bar** using the icon on the left. Use it to browse and insert various Stencila blocks into the current document.
-4. This file itself is a **Stencila Markdown Document** (*.smd).  Use the Run menu at the top right to Preview it.
+4. This file itself is a **Stencila Markdown Document** (*.smd).  Use the Preview button at the top right to view it.
 5. **Explore** key functionality in detail, using the walkthroughs listed in the Stencila Command Menu.
 
 ## Examples
@@ -15,7 +15,7 @@ Try running the blocks below with the Preview open.
 ```python exec
 print("Hello world")
 ```
-::: create plot of random numbers <<
+::: create plot of random numbers >>>
 
 ::: edit this list and make it a table which includes the population of each city
 
