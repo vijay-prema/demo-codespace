@@ -9,6 +9,9 @@
       "documentationUrl": "https://stencila.cloud/access-tokens"
     }
   },
+  "hostRequirements": {
+    "memory": "16gb"
+  },
   "customizations": {
     "vscode": {
       "extensions": ["stencila.stencila"],
