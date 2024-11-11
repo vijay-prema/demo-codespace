@@ -1,10 +1,27 @@
 # Stencila VSCode Extension Demo
 
-## Launching the demo
+This demo creates a prepared Dockerized environment for testing Stencila, Stencila VSCode and Stencila Cloud without any changes to your workstation's environment. Stencila can also run locally by simply installing the [Stencila VSCode extension](https://marketplace.visualstudio.com/items?itemName=stencila.stencila) in VSCode. The demo environment described below is an alternative available for those who do not want to install VSCode, but want to test out Stencila and Stencila Cloud. 
+
+## Launching the demo in the Cloud (simple)
 
 Welcome to the demo GitHub Codespace for the Stencila VSCode extension. You can launch the demo, in a data center near you, by clicking this button:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/stencila/demo-codespace?quickstart=1)
+
+## Launching the demo Locally using Docker and Dev Container (more steps)
+
+This repository has a [Dev Container](https://containers.dev/) defined in the `.devcontainer` directory of the repository. This defines a container that can run Stencila and the associated Stencila VSCode extension on your local machine in a containerized environment. To run locally (requires Docker). 
+
+1. Install VSCode
+2. Install Docker
+3. Install the Dev Container Extension in VSCode
+4. `git clone https://github.com/stencila/demo-codespace`
+5. `cd demo-codespace`
+6. `code .`
+7. Chose "Reopen in Container from the pop-up in VSCode"
+
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/89d3da21-bd54-4129-94e6-506889cc9534">
+
 
 ## Interactive walkthroughs
 
