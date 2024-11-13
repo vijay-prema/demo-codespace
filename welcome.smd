@@ -1,0 +1,39 @@
+# Stencila VSCode Extension Demo
+
+Welcome to the demo GitHub Codespace for the Stencila VSCode extension!
+
+## Quick start
+
+- The **Stencila Command Menu** can be accessed any time using `Ctrl`+`F1`, or by clicking on the Stencila status bar item in the bottom right.
+
+- Open the **Stencila Side Bar** using the Stencila icon in the activity bar on the left. Use it to browse execution kernels, AI prompts and AI models, and click the action buttons to use them in the current document.
+
+- To use Stencila's AI model router, **Sign in to Stencila Cloud**, or enter a Stencila API token, via the Stencila Command Menu.
+
+- **Explore** key functionality in detail, using the walkthroughs listed in the Stencila Command Menu.
+
+- This file is a **Stencila Markdown Document** (*.smd).  Use the `Preview` button at the top right to view it and try running the examples below.
+
+## Examples
+
+An executable code cell:
+
+```python exec
+print("Hello world")
+```
+
+An AI command to create and run code to plot random numbers:
+
+::: create run plot of random numbers :::
+
+An AI command to transform a list into a table and add data:
+
+::: edit make a table which includes the population of each city
+
+1. Tokyo, Japan
+2. New York City, USA
+3. London, UK
+4. Shanghai, China
+5. Moscow, Russia
+
+:::
