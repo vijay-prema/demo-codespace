@@ -13,6 +13,9 @@
     "memory": "16gb"
   },
   "customizations": {
+    "codespaces": {
+      "openFiles": ["welcome.smd"]
+    },
     "vscode": {
       "extensions": ["stencila.stencila"],
       "settings": {
