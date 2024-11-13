@@ -12,7 +12,7 @@ You can launch the demo, in a data center near you, by clicking this button:
 
 ### 2. Launching the demo Locally using Docker and Dev Container (more steps)
 
-[Click here to jump to the instructions for running locally](#run-locally)
+[Click here to jump to the instructions for running locally](#option-2-running-container-locally)
 
 
 ## Interactive walkthroughs
