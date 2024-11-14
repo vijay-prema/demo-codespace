@@ -10,7 +10,7 @@ Please wait a few moments while VSCode installs the Stencila Plugin. You'll know
 
 - Open the **Stencila Side Bar** using the Stencila icon in the activity bar on the far left. Use it to browse execution kernels, AI prompts and AI models, and click the action buttons to use them in the current document.
 
-- To use Stencila's LLM assistant and AI model router, **Sign in to Stencila Cloud**, or enter a Stencila API token, via the Stencila Command Menu.
+- To use Stencila's LLM assistant and AI model router, [**Sign up for Stencila Cloud**](https://stencila.cloud/signup), or enter a Stencila API token, via the Stencila Command Menu.
 
 - **Explore** key functionality in detail, using the walkthroughs listed in the Stencila Command Menu.
 
@@ -26,7 +26,7 @@ print("Hello world")
 
 An AI command to create and run code to plot random numbers:
 
-::: create run plot of random numbers :::
+::: create plot of random numbers :::
 
 An AI command to transform a list into a table and add data:
 
@@ -39,3 +39,6 @@ An AI command to transform a list into a table and add data:
 5. Moscow, Russia
 
 :::
+
+
+
