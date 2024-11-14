@@ -6,6 +6,8 @@ This demo creates a prepared Dockerized environment for testing Stencila, Stenci
 
 ### 1. Launching the demo in the Cloud (EASY!)
 
+First signup for the [Stencila Cloud](https://stencila.cloud/signup) to get yourself an API token. Our free tier will let you experiment with Stencila and try out our walkthroughs, or test on your own documents.
+
 You can launch the demo, in a data center near you, by clicking this button:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/stencila/demo-codespace?quickstart=1)
