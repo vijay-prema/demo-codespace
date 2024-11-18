@@ -12,10 +12,19 @@ You can launch the demo, in a data center near you, by clicking this button:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/stencila/demo-codespace?quickstart=1)
 
+
 ### 2. Launching the demo Locally using Docker and Dev Container (more steps)
+<details>
+<summary>Expand to see Instructions</summary>
 
-[Click here to jump to the instructions for running locally](#option-2-running-container-locally)
+This repository has a [Dev Container](https://containers.dev/) defined in the `.devcontainer` directory of the repository. This defines a container that can run Stencila and the associated Stencila VSCode extension on your local machine in a containerized environment. To run locally (requires Docker). 
 
+1. Install VSCode or have it already installed
+2. Install Docker or have it already installed
+3. Install the [Dev Container Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) in VSCode
+4. `git clone https://github.com/stencila/demo-codespace`
+
+</details>
 
 ## Interactive walkthroughs
 
@@ -42,14 +51,7 @@ You can [create a fork](https://github.com/stencila/demo-codespace/fork) of this
 
 We are [planning](https://github.com/stencila/demo-codespace/issues/3) to make it easier to fork and customize this repository in the future.
 
-## Option 2 Running Container Locally 
 
-This repository has a [Dev Container](https://containers.dev/) defined in the `.devcontainer` directory of the repository. This defines a container that can run Stencila and the associated Stencila VSCode extension on your local machine in a containerized environment. To run locally (requires Docker). 
-
-1. Install VSCode or have it already installed
-2. Install Docker or have it already installed
-3. Install the [Dev Container Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) in VSCode
-4. `git clone https://github.com/stencila/demo-codespace`
 5. `cd demo-codespace`
 6. `code .`
 7. Chose "Reopen in Container from the pop-up in VSCode"
