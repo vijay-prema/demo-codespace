@@ -23,6 +23,11 @@ This repository has a [Dev Container](https://containers.dev/) defined in the `.
 2. Install Docker or have it already installed
 3. Install the [Dev Container Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) in VSCode
 4. `git clone https://github.com/stencila/demo-codespace`
+5. `cd demo-codespace`
+6. `code .`
+7. Chose "Reopen in Container from the pop-up in VSCode"
+
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/89d3da21-bd54-4129-94e6-506889cc9534">
 
 </details>
 
@@ -52,8 +57,3 @@ You can [create a fork](https://github.com/stencila/demo-codespace/fork) of this
 We are [planning](https://github.com/stencila/demo-codespace/issues/3) to make it easier to fork and customize this repository in the future.
 
 
-5. `cd demo-codespace`
-6. `code .`
-7. Chose "Reopen in Container from the pop-up in VSCode"
-
-<img width="531" alt="image" src="https://github.com/user-attachments/assets/89d3da21-bd54-4129-94e6-506889cc9534">
