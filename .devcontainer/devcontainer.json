@@ -17,7 +17,7 @@
       "openFiles": ["welcome.smd"]
     },
     "vscode": {
-      "extensions": ["stencila.stencila"],
+      "extensions": ["usernamehw.errorlens", "stencila.stencila"],
       "settings": {
         // See here for VSCode settings and their defaults
         // https://code.visualstudio.com/docs/getstarted/settings#_default-settings
